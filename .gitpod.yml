@@ -1,0 +1,3 @@
+task:
+  - init: cd leo/web
+    command: yarn start
