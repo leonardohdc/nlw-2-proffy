@@ -3,4 +3,4 @@ tasks:
     command: yarn --cwd /workspace/nlw-2-proffy/leo/web start
   - openMode: split-right
     command: yarn --cwd /workspace/nlw-2-proffy/leo/server
-    command: yarn --cwd /workspace/nlw-2-proffy/leo/server start
+    
