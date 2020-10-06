@@ -3,7 +3,7 @@ tasks:
     name: Static Server
   - openMode: split-right
     command: yarn --cwd /workspace/nlw-2-proffy/leo/web
+    command: yarn --cwd /workspace/nlw-2-proffy/leo/web start
   - openIn: left
-    command: echo LeftPanelTerminal
-    command: echo teste
-    command: echo testeeeee
+    command: yarn --cwd /workspace/nlw-2-proffy/leo/server
+    command: yarn --cwd /workspace/nlw-2-proffy/leo/server start
