@@ -2,7 +2,7 @@ tasks:
   - init: yarn --cwd /workspace/nlw-2-proffy/leo/web
     command: yarn --cwd /workspace/nlw-2-proffy/leo/web start
   - openMode: split-right
-  - openIn: left
+  - openIn: right
     command: yarn --cwd /workspace/nlw-2-proffy/leo/server
     command: yarn --cwd /workspace/nlw-2-proffy/leo/server start
     
