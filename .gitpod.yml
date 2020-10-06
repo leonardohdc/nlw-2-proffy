@@ -2,6 +2,8 @@ tasks:
   - command: echo primeiro terminal
     name: Static Server
   - openMode: split-right
-    command: echo SplitTerminal
+    command: yarn --cwd /workspace/nlw-2-proffy/leo/web
   - openIn: left
     command: echo LeftPanelTerminal
+    command: echo teste
+    command: echo testeeeee
