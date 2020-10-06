@@ -2,4 +2,4 @@ tasks:
   - init: yarn --cwd /workspace/nlw-2-proffy/leo/web
     command: yarn --cwd /workspace/nlw-2-proffy/leo/web start
   - openMode: split-right
-    command: echo SplitTerminal
+    command: yarn --cwd /workspace/nlw-2-proffy/leo/server
